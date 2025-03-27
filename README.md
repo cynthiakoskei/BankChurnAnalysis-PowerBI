@@ -14,15 +14,15 @@ This Power BI project analyzes customer data from a bank to understand customer 
 The dataset includes customer banking information such as salary, balance, age, region, gender, credit card ownership, and churn status. 
 
 ## Repository Structure
-- `/dashboards/`: Contains the Power BI (.pbix) files with the interactive dashboards.
-- `/data/`: Includes a sample dataset in CSV format to show the structure of the customer data.
-- `/screenshots/`: Screenshots of the dashboards, showing visuals like churn rates and customer trends.
+- `/dashboard/`: Contains the Power BI (.pbix) files with the interactive dashboards.
+- `/data/`: Includes a dataset in CSV format to show the structure of the customer data.
+- `/screenshot/`: Screenshots of the dashboards, showing visuals like churn rates and customer trends.
 
 ## How to Use
 1. **Clone the Repository**: Use `git clone https://github.com/cynthiakoskei/BankChurnAnalysis-PowerBI.git` to download the project files.
-2. **Open Power BI Files**: Install Power BI Desktop, then open the `.pbix` files in the `/dashboards/` folder to explore the dashboards.
+2. **Open Power BI Files**: Install Power BI Desktop, then open the `.pbix` files in the `/dashboard/` folder to explore the dashboards.
 3. **Check the Data**: See the `/data/` folder for the sample dataset to understand the customer information used.
-4. **View Screenshots**: Look at the `/screenshots/` folder for a quick preview of the dashboards.
+4. **View Screenshots**: Look at the `/screenshot/` folder for a quick preview of the dashboards.
 
 ## Prerequisites
 - Power BI Desktop (free version is enough).
